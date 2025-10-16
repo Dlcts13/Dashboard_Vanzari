@@ -18,8 +18,11 @@ Scopul proiectului este de a demonstra competențe practice în **Data Cleaning,
 ## 🧱 Structura proiectului
 Dashboard_Vanzari/
 ├── data/ # fișierul Excel original
+
 ├── powerbi/ # fișierul Power BI (.pbix) + export PDF
+
 ├── sql/ # scripturi SQL (creare și populare tabele)
+
 └── README.md # documentația proiectului
 
 ---
@@ -69,3 +72,4 @@ Dashboardul final include:
 
 ## 📄 Licență
 Proiect creat în scop educațional. Datele provin dintr-un Online Retail Dataset
+
